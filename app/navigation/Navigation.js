@@ -49,7 +49,7 @@ const NavigationStacks = createBottomTabNavigator(
     }
   },
   {
-    initialRouteName: 'Planned',
+    initialRouteName: 'Account',
     order: ["Planned", "Ranking", "Search", "Account"],
     tabBarOptions: {
       inactiveTintColor: Colors.tabIconDefault,
